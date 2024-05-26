@@ -14,7 +14,7 @@
 #                      Overload-DoS installation                      #
 #_____________________________________________________________________#
 #                     chmod +x install-overload.py                    #
-#                     sudo ./install-overload.py                      #
+#                     python install-overload.py                      #
 #_____________________________________________________________________#
 
 import os, sys, time
